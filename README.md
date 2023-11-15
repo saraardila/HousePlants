@@ -14,7 +14,7 @@ A continuación, se muestran las capturas de pantalla de la aplicación:
 
 
 
-## Descipción:
+## Descripción:
 Gané conocimientos y experiencia valiosos en el desarrollo de aplicaciones. Aquí tienes algunos de los temas clave y habilidades que adquirí:
 - Creación de una aplicación de búsqueda de plantas con los siguientes componentes:
   - Desarrollado con Java y Java Swing
